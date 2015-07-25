@@ -5,6 +5,7 @@ void add_item();
 void display();
 void del_item();
 void exit_end();
+void del_all_exit();
 struct note{
 	char data[20];
 	int entry;
